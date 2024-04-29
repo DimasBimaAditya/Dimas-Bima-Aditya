@@ -1,0 +1,54 @@
+1.harga gpu dan wbcam adalah 5.500.000 merupakan harga akumulasi keduanya, ada kondisi dimana harga gpu lebih besar 5.000.000 dari web cam , maka harga masing masing barang ialah 
+
+webcam : 500.000
+gpu : 5.500.000
+dapat kita lihat dari selisih antar harga keduanya
+
+2.bagian 1 :
+2.Diket : kecepatan konstan 
+	  waktu = 30 menit
+          kecepatan naik : 50 km/jam
+          waktu = kurang 10 menit 
+  jawab : ketika melaju dengan kecepatan konstan
+          waktu tempuh 30 menit dan apabila
+          kecepatan 50 km lebih cepat maka waktu
+          tempuh berkurang 10 menit
+	  maka jarak bandung ke jakarta lebih kurang 
+
+3. Hari : "Salah satu pernyataan yang saya katakan adalah benar, yaitu Budi adalah pencuri atau saya adalah polisi"
+
+Lestari : "Hari bisa saja menuduh bahwa saya adalah pencuri"
+
+Budi : "Lestari dan Hari bukanlah seorang polisi"
+
+dari dialog diatas dapat disimpulkan bahwa polisi adalah hari sebab secara tegas menyampaikan bahwa terdapat dua pernyataan yang salah satunya benar menurut saya yaitu budi adalah pencuri sebab jika merujuk ke pernyataan dari budi ia secara langsung menyatakan bahwa lestari dan hari bukanlah polisi namun melihat dari pernyataan lestari jika ia mengatakan bahwa hari bisa saja menuduh saya adalah seorang pencuri maka dapat disimpulkan hari adalah polisi dan lestari merupakan pencuri 
+
+4. ari menghabiskan sebelumm elang tetapi setelah cia
+bani menghabiskan setelah danny
+cia menghabiskan apelnya setelah danny dan sebelum banny
+
+urutan ke 3 : cia
+
+jika ari<elag
+     ari>cia
+     bani>danny
+     cia>danny<bani
+maka
+danny-bani-cia-ari-elang
+
+
+5. chaca > rey tugas : rey > caca
+   prita < rey tugas prita < rey & caca
+   yunjin > caca tugas : yunjin > caca
+
+bahagia :
+prita - rey - caca - yujin
+
+tugas :
+prita - rey - caca - yunjin
+
+jawab : dari analisis yang saya dapatkan bahwa orang paling bahagia adalah yunjin walaupun secara tugas ialah yang paling banyak
+
+6. orang dengan tugas paling sedikit adalah prita dimana dari analisis didapatkan bahwa jumlah keseluruhan tugas prita yang paling sedikit
+
+
